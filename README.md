@@ -1,4 +1,4 @@
-# Research-Project-1
+# Research-Project-1 -- Numerical Analysis
 Root-Finding Methods Visualization in Python
 
 A Python project implementing and comparing four numerical root-finding methods: Bisection, Newton-Raphson, Secant, and Muller. This project demonstrates the iterative process of approximating roots for nonlinear equations and visualizes error convergence to highlight efficiency differences between methods.
